@@ -1,0 +1,11 @@
+{
+    "description": "OpenOCD",
+    "name": "tool-pico-openocd",
+    "system": [
+        "windows",
+        "windows_amd64",
+        "windows_x86"
+  ], 
+  "url": "https://github.com/Wiz-IO/tool-pico-openocd", 
+  "version": "0.10.0"
+}
