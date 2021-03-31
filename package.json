@@ -4,7 +4,9 @@
     "system": [
         "windows",
         "windows_amd64",
-        "windows_x86"
+        "windows_x86",
+        "linux_x86_64",
+        "darwin_x86_64"        
   ], 
   "url": "https://github.com/Wiz-IO/tool-pico-openocd", 
   "version": "0.10.0"
